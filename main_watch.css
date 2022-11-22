@@ -1,0 +1,15 @@
+body {
+  color: #333;
+  font-family: 游ゴシック, メイリオ, Meiryo, sans-serif;
+}
+
+#time {
+ font-size: 30px ;
+}
+
+#Start ,#Stop ,#Reset{
+  font-size: 16px;
+  height: 40px;
+  width: 100px;
+  margin: 0px auto;
+}
